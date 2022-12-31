@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/JohnyJonson/ioSpa/blob/main/Rayfield"))()

@@ -1,0 +1,9 @@
+local FlyMachine = {}
+function FlyMachine.createFly(executor)
+    
+    if executor ==  "EVP" then
+      print("EVP Loading...")
+    end  
+    end          
+FlyMachine.createFly("EVP")
+return FlyMachine
